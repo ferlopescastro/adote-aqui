@@ -79,6 +79,11 @@ footer{
         display: none;
     }
 
+    .header > .nav{
+        flex-direction: column;
+        font-size: 16px;
+    }
+
     .imagens{
         flex-direction: column;
         width: 254px;
